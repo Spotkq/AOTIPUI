@@ -32,6 +32,9 @@ AOT.BackgroundColor3 = Color3.fromRGB(22, 22, 22)
 AOT.BorderSizePixel = 0
 AOT.Position = UDim2.new(0.00912410021, 0, 0.489563584, 0)
 AOT.Size = UDim2.new(0.285583943, 0, 0.495256156, 0)
+AOT.Active = true
+AOT.Selectable = true
+AOT.Draggable = true
 
 Frame.Parent = AOT
 Frame.BackgroundColor3 = Color3.fromRGB(85, 85, 255)
